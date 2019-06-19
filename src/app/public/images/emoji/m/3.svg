@@ -1,0 +1,9 @@
+<svg width="80.012mm" height="80.012mm" version="1.1" viewBox="0 0 80.012 80.012" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(88.982 -75.444)" fill="none">
+  <circle cx="-48.976" cy="115.45" r="40.006" fill="none"/>
+ </g>
+ <g transform="matrix(.99968 0 0 1.0257 -.51594 -2.2371)">
+  <path d="m66.244 49.227a26.551 22.629 0 0 1-25.796 16.868 26.551 22.629 0 0 1-25.617-17.065" fill="none" stroke="#000" stroke-width="1.6873"/>
+ </g>
+ <rect x="13.56" y="47.031" width="52.966" height="1.6679"/>
+</svg>

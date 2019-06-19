@@ -1,0 +1,13 @@
+.filepond--root {
+    font-size: medium;
+}
+.filepond--panel-root {
+    background-color: transparent;
+    border: 2px solid #2c3340;
+}
+
+.img-view {
+    height:25%;
+    width:25%;
+    padding: 5px 40px 20px 10px; /* TOP RIGHT LEFT BOTTOM*/
+}

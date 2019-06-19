@@ -1,0 +1,13 @@
+<svg width="81.07mm" height="81.07mm" version="1.1" viewBox="0 0 81.07 81.07" xmlns="http://www.w3.org/2000/svg" >
+ <g transform="translate(88.982 -75.445)">
+  <circle cx="-48.976" cy="115.45" r="40.006" fill="none"/>
+  <circle cx="-64.176" cy="106.42" r="4.5035"/>
+  <circle cx="-36.028" cy="106.42" r="4.5035"/>
+ </g>
+ <g transform="translate(89.511 -74.916)" fill="none" stroke="#000" stroke-width="1.0583">
+  <circle cx="-48.976" cy="115.45" r="40.006" fill="none" stroke="#000" stroke-width="1.0583"/>
+ </g>
+ <g transform="matrix(1 0 0 -1 -.58938 115.19)">
+  <path d="m66.244 49.227a26.551 22.629 0 0 1-25.796 16.868 26.551 22.629 0 0 1-25.617-17.065" fill="none" stroke="#000" stroke-width="1.6873"/>
+ </g>
+ </svg>
