@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/truffle-box/drizzle-box#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "ipfs": "^0.36.3",
     "moment": "^2.24.0",
     "openzeppelin-solidity": "^2.1.1",
